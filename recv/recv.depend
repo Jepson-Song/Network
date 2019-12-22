@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1576750333 source:f:\code\recv\ethernet.cpp
+	"Ethernet.h"
+	"IP.h"
+
+1576736369 f:\code\recv\ethernet.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<pcap.h>
+	<WinSock2.h>
+
+1576744044 source:f:\code\recv\main.cpp
+	"Ethernet.h"
+
+1576735949 f:\code\recv\ip.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<pcap.h>
+	<WinSock2.h>
+
